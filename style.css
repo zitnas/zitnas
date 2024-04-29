@@ -20,4 +20,10 @@ button {
     color: #fdcc04;
     background: #000;
     cursor: pointer;
+    border-radius: 50px;
+}
+
+button:hover {
+    background: #fff;
+    color: #000;
 }
