@@ -12,3 +12,12 @@ body {
     font-style: italic;
     padding: 0 2rem;
 }
+
+button {
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    border: none;
+    color: #fdcc04;
+    background: #000;
+    cursor: pointer;
+}
