@@ -8,6 +8,8 @@ div.projekty {
 
 div#prvni {
     background-color: aqua;
+    text-align: center;
+    font-weight: bold;
 }
 
 div#druhej {
