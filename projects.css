@@ -14,12 +14,33 @@ div#prvni {
 
 div#druhej {
     background-color: aqua;
+    text-align: center;
+    font-weight: bold;
 }
 
 div#treti {
     background-color: aqua;
+    text-align: center;
+    font-weight: bold;
 }
 
 div#ctvrtej {
     background-color: aqua;
+    text-align: center;
+    font-weight: bold;
+}
+
+button#prvnitlacitko {
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    border: none;
+    color: #fdcc04;
+    background: #000;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+button#prvnitlacitko :hover {
+    background: #fff;
+    color: #000;
 }
