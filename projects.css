@@ -1,0 +1,23 @@
+div.projekty {
+    height: 150px;
+    width: 150px;
+    border:5px solid #000000;
+    float: left;
+    margin: 20px;
+}
+
+div#1 {
+    background-color: aqua;
+}
+
+div#2 {
+    background-color: aqua;
+}
+
+div#3 {
+    background-color: aqua;
+}
+
+div#4 {
+    background-color: aqua;
+}
